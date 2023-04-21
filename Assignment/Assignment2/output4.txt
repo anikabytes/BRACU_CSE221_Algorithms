@@ -1,0 +1,9 @@
+Patients remaining (using bubble sort) : 
+EWQ
+OPN
+TYU
+
+Patients remaining (using heap sort) : 
+TYU
+EWQ
+OPN
